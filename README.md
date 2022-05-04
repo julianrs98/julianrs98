@@ -5,9 +5,7 @@ I started my journey with frontend about year ago and I still keep moving, to de
 # ✅ Skills mastered: <br />
 👉🏻 JavaScript  <br />
 👉🏻 HTML CSS  <br />
-<pre>
-   👉🏻 SASS  <br /> 
-</pre>   
+👉🏻 SASS  <br /> 
 👉🏻 WEBPACK  <br />
 👉🏻 Gulp  <br />
 👉🏻 NodeJs & NPM  <br />
