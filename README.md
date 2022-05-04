@@ -18,9 +18,11 @@ __ 👉🏻 SASS  <br />
  <br />
 # 🔎 I am looking for a job as frontend developer now, I am able to work with technologie the above-mentioned
 # CATCH ME on:
-- linkedin (https://www.linkedin.com/in/julian-schmitt-reichart-587bb7151)  <br />
+👉🏻 linkedin (https://www.linkedin.com/in/julian-schmitt-reichart-587bb7151)  <br />
 ____or  <br />
-- mail (main@reichartschmitt.xyz)
+👉🏻 mail (main@reichartschmitt.xyz)
+
+# 🌐 Checkout my website http://reichartschmitt.xyz/
 
 
 
