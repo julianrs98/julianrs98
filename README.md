@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Julian, nice to see you here
-- I am passionate about IT world, and developing apps on bought sites - projecting design and next code this design
-- I started my journey with frontend about year ago and I still keep moving, to develop my skills.
+👋 Hi, I’m Julian, nice to see you here <br />
+I am passionate about IT world, and developing apps on bought sites - projecting design and next code this design <br />
+I started my journey with frontend about year ago and I still keep moving, to develop my skills. <br />
  <br />
-# ✅ Skills mastered:
+# ✅ Skills mastered: <br />
 👉🏻 JavaScript  <br />
 👉🏻 HTML CSS  <br />
 __ 👉🏻 SASS  <br />
