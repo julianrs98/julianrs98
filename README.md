@@ -1,4 +1,4 @@
-👋 Hi, I’m Julian, nice to see you here <br />
+# 👋 Hi, I’m Julian, nice to see you here <br />
 I am passionate about IT world, and developing apps on bought sites - projecting design and next code this design <br />
 I started my journey with frontend about year ago and I still keep moving, to develop my skills. <br />
  <br />
